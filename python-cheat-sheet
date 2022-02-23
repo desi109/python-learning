@@ -2,8 +2,9 @@ Python (cheat sheet)
 ====================
 
 
-Download Python: https://www.python.org/downloads/
+Download Python:  https://www.python.org/downloads/
 Download PyCharm: https://www.jetbrains.com/pycharm/download/#section=linux
+Install Python:   https://cloudbytes.dev/snippets/upgrade-python-to-latest-version-on-ubuntu-linux
  
  
      1. Check the version of Python installed on your system run:
@@ -27,3 +28,7 @@ sudo update-alternatives --config python3
         Choose the selection corresponding to Python3.10 (if not selected by default).
         Now run:
 python3 --version
+
+
+
+
